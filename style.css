@@ -1,0 +1,34 @@
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    margin-bottom: 0;
+    list-style: none;
+}
+
+
+.head{
+    background-color: rgba(221, 221, 221, 0.404);
+}
+.head-top{}
+.head-top img{
+    padding-top: 3px;
+    width: 90px;
+}
+.head-top-menu{
+    text-align: right;
+}
+.head-top-menu a{
+    padding: 10px 30px;
+    background-color: #000;
+    color: #fff;
+    line-height: 63px;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+.head-top-menu a:last-child{
+    margin-right: 0;
+}
